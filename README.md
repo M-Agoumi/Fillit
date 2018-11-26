@@ -22,19 +22,19 @@ your files must restpect the rules below<br>
 `....`<br>
 `.##.`<br>
 `.##.`<br>
-`....`
+`....`<br>
 **2** there a break line after every tetriminos this way
-
-`.#..
-.###.
-....
-....
-
-##..
-#...
-#...
-....`
-
+<br><br>
+`.#..`<br>
+`.###.`<br>
+`....`<br>
+`....`<br>
+<br>
+`##..`<br>
+`#...`<br>
+`#...`<br>
+`....`<br>
+<br>
 **3** your tetriminos must be valid one other way the program will show you only an error message
 
 > hope you like it and sorry for my English mistakes

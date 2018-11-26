@@ -16,12 +16,12 @@ after compiling our program you run it from Terminal
 `./fillit` adding your file next `./fillit test`
 
 # Rules
-your files must restpect the rules below
+your files must restpect the rules below<br>
 **1** your tetriminos must be written this way
-
-`....
-.##.
-.##.
+<br>
+`....<br>
+.##.<br>
+.##.<br>
 ....`
 **2** there a break line after every tetriminos this way
 

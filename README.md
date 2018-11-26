@@ -18,7 +18,6 @@ after compiling our program you run it from Terminal
 # Rules
 your files must restpect the rules below<br>
 **1** your tetriminos must be written this way
-<br>
 `....`<br>
 `.##.`<br>
 `.##.`<br>
